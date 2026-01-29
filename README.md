@@ -8,6 +8,12 @@ The dataset contains sales transactions from store branches across multiple coun
 
 The objective is to create a detailed and interactive sales report for stakeholders.
 
+## Dataset
+
+Source: Google Sheets
+
+Link: https://docs.google.com/spreadsheets/d/1Ez8RhO1rE2QikfdddOZ19eEZhN4r6eW7WHb9qB05T7E/edit?usp=sharing
+
 ## Data Cleaning
 
 Basic data cleaning was performed using Power Query in Power BI.
