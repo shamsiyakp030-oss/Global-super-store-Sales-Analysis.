@@ -74,6 +74,7 @@ Slicers and filters allow stakeholders to explore data easily.
 ## Video Explanation
 
 A short video explaining the dashboard, visualizations, and key insights is included.
+Link: https://drive.google.com/file/d/1_GFfd1aqevKGrwLtuqgNp80GUxsuHkCe/view?usp=sharing
 
 ## Conclusion
 
